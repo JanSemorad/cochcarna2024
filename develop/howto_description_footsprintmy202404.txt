@@ -1,0 +1,11 @@
+Add all new files.
+git add --all
+
+Remove a file.
+git rm <filename>
+
+Commit changes.
+git commit -m '<commit_message>'
+
+Get an idea of the git command to use next.
+git status 
