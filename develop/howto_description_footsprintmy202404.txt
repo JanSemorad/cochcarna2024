@@ -21,3 +21,6 @@ with problems:
 git config pull.rebase false
 git pull https://github.com/JanSemorad/cochcarna2024.git main
 
+codespace:
+https://ideal-system-w45qxj97qp39wwv.github.dev/
+
