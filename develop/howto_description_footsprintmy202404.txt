@@ -9,3 +9,6 @@ git commit -m '<commit_message>'
 
 Get an idea of the git command to use next.
 git status 
+
+PUBLISH
+git push https://github.com/JanSemorad/cochcarna2024.git
