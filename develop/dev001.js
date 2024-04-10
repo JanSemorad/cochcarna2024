@@ -1,4 +1,4 @@
-var a = await 10
+var a = await 11
 
 console.log(a)
 console.log(1234567)

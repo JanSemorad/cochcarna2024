@@ -1,0 +1,23 @@
+Add all new files.
+git add --all
+
+Remove a file.
+git rm <filename>
+
+Commit changes.
+git commit -m '<commit_message>'
+
+Get an idea of the git command to use next.
+git status 
+
+PUBLISH
+git push https://github.com/JanSemorad/cochcarna2024.git
+
+
+see result:
+https://github.com/JanSemorad/cochcarna2024/blob/main/develop/howto_description_footsprintmy202404.txt
+
+with problems:
+git config pull.rebase false
+git pull https://github.com/JanSemorad/cochcarna2024.git main
+
